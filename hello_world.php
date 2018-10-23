@@ -1,0 +1,3 @@
+﻿<?php
+    ehcho "Hello World";
+?>
